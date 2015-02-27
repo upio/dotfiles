@@ -1,4 +1,3 @@
-execute pathogen#infect()
 "Bundle Scripts-----------------------------
 if has('vim_starting')
   if &compatible
