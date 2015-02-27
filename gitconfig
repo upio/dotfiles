@@ -1,0 +1,9 @@
+[user]
+	email = sam.goodwin89@gmail.com
+	name = upio
+[credential]
+	helper = cache
+[core]
+	editor = vim
+[push]
+	default = simple
